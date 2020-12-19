@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to static site blogging with Jekyll!"
-date:   2020-20-12 22:46:40
+date:   2020-12-20 22:46:40
 categories: jekyll update
 ---
 You’ll find this post in your `_posts` directory. Hello this is my first post.
